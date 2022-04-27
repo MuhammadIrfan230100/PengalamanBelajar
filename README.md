@@ -10,3 +10,7 @@ Belajar dasar Git dengan Github
 **28 Maret 2022**  
 Belajar dasar Git dengan Github (Progres 56%)  
  *Belajar mengerjakan studi kasus yang ada pada modul.
+
+**29 Maret 2022**  
+Belajar dasar Git dengan Github (Progres 100%)  
+  *Melanjutkan proses belajar sampat ujian akhir pada kelas belajar dasar Git dengan Github.
